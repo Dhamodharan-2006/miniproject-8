@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/miniproject-8/static/css/main.db02c606.css",
-    "main.js": "/miniproject-8/static/js/main.fa775d97.js",
+    "main.css": "/miniproject-8/static/css/main.114b64db.css",
+    "main.js": "/miniproject-8/static/js/main.c4bc17b5.js",
     "static/js/453.042f6385.chunk.js": "/miniproject-8/static/js/453.042f6385.chunk.js",
+    "static/media/keyboard.jpg": "/miniproject-8/static/media/keyboard.113222f82e40becef0f8.jpg",
+    "static/media/iphone.jpg": "/miniproject-8/static/media/iphone.967a1f422ce9ad97a0ec.jpg",
+    "static/media/playstation.jpg": "/miniproject-8/static/media/playstation.b27ef4c5b734c8111505.jpg",
+    "static/media/mouse.jpg": "/miniproject-8/static/media/mouse.8b946693ed3bba33e611.jpg",
+    "static/media/airpods.jpg": "/miniproject-8/static/media/airpods.560b31f8dc8bcc74a732.jpg",
+    "static/media/camera.jpg": "/miniproject-8/static/media/camera.63797d1f0f142c5980e9.jpg",
     "index.html": "/miniproject-8/index.html",
-    "main.db02c606.css.map": "/miniproject-8/static/css/main.db02c606.css.map",
-    "main.fa775d97.js.map": "/miniproject-8/static/js/main.fa775d97.js.map",
+    "main.114b64db.css.map": "/miniproject-8/static/css/main.114b64db.css.map",
+    "main.c4bc17b5.js.map": "/miniproject-8/static/js/main.c4bc17b5.js.map",
     "453.042f6385.chunk.js.map": "/miniproject-8/static/js/453.042f6385.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db02c606.css",
-    "static/js/main.fa775d97.js"
+    "static/css/main.114b64db.css",
+    "static/js/main.c4bc17b5.js"
   ]
 }
